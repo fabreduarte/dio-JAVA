@@ -1,4 +1,4 @@
-package edu.daniel.primeirasemana;
+package edu.daniel.primeiraaula;
 public class MinhaClasse {
 
 	public static void main(String[] args) {

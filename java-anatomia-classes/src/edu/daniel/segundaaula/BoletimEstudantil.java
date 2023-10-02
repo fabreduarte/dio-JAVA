@@ -1,4 +1,4 @@
-package edu.daniel.segundasemana;
+package edu.daniel.segundaaula;
 
 public class BoletimEstudantil {
 
